@@ -1,0 +1,35 @@
+{
+  "name": "pomme",
+  "version": "1.0.0",
+  "description": "La pomme est un bot discord qui dispose d'une intelligence artificielle, il est fait spécialement pour discuter avec vous",
+  "main": "index.js",
+  "dependencies": {
+    "discord.js": "^12.5.1",
+    "string-similarity": "^4.0.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SkwalExe/Pomme.git"
+  },
+  "keywords": [
+    "bot",
+    "discord",
+    "bot",
+    "discord",
+    "ia",
+    "ai",
+    "intelligence",
+    "artificielle",
+    "chatbot"
+  ],
+  "author": "SkwalExe, KushiiExe",
+  "license": "MPL-2.0",
+  "bugs": {
+    "url": "https://github.com/SkwalExe/Pomme/issues"
+  },
+  "homepage": "https://github.com/SkwalExe/Pomme#readme"
+}
